@@ -13,15 +13,22 @@ This is a console application for managing the inventory of a small inn called G
 1. Clone the repository from GitHub:
    ```
    git clone https://github.com/burgua/gilded-rose-app.git
-2. Run the application:
+   ```
+
+2. After cloning navigate to a folder with the application.
+3. Run the application:
    ```
    dotnet run
-This will compile and execute the Gilded Rose inventory system, displaying the updated values for each item.
+   ```
 
-3. To run the unit tests:
+   This will compile and execute the Gilded Rose inventory system, displaying the updated values for each item.
+
+4. To run the unit tests:
    ```
    dotnet test
-This will run the unit tests to ensure the correctness of the code logic and functionality.
+   ```
+
+   This will run the unit tests to ensure the correctness of the code logic and functionality.
 
 ### Approval Tests
 

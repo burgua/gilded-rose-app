@@ -13,7 +13,6 @@ This is a console application for managing the inventory of a small inn called G
 1. Clone the repository from GitHub:
    ```
    git clone https://github.com/burgua/gilded-rose-app.git
-
 2. Run the application:
    ```
    dotnet run
